@@ -1,12 +1,12 @@
 ---
-cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/Wind%20Power.jpg?raw=true
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/Wind%20Power.jpg
 
 domain: Energy Transition
 tags: KLIEN,renewable energy,energy potential,energy technology,wind power,electricity
 provider: AIT Center for Energy,Energiewerkstatt
 ---
 
-# KLIEN Data- Wind Power Potential
+# Wind Power Potential – Study on Renewable Energy Potentials
 
 ## Background
 
@@ -68,10 +68,22 @@ provider: AIT Center for Energy,Energiewerkstatt
 
 <p style="text-align: justify;"/> At the upper end of the assumed range (“High”), approximately one third of Austria’s technical wind power potential would be realised nationwide by 2040. This highlights that the technically available wind power potential constitutes a sufficiently large reservoir for any realistic expansion pathway over the foreseeable future. Consequently, there remains substantial scope for political decision-making in determining the regions in which wind power expansion should be implemented. 
 
+### Levelized Cost of Energy, Market Value & Impact of Climate Change
+
+<p style="text-align: justify;"/> The evaluation of the levelized cost of energy (LCOE), market value (MV), and the impact of climate change was carried out as a post‑processing step following the assessment of generation potentials
+
+<p style="text-align: justify;"/> The specified LCOE ranges are based on a location-specific assessment that takes into account both construction and operating costs as well as site-dependent yield characteristics. For future cost developments, technology-specific assumptions, international cost trends, and adjusted price and financing parameters were used. Market value is based on prospective model-based analysis as undertaken in the recently completed FFG study Marktprämien 2.0 (cf. <a target="_blank" href=" https://www.ait.ac.at/themen/flexibilitaet-geschaeftsmodelle/projekte/marktpraemien-20"> Marktprämien 2.0 </a> - AIT Austrian Institute Of Technology), acknowledging hourly feed-in profiles of wind power generation at the aggregated level in Austria. It thus reflects how revenues from selling the produced wind power electricity on the Austrian wholesale market may evolve.
+
+<p style="text-align: justify;"/> The data thus combines cost and system perspectives and shows how the relationship between generation costs and potential market revenues may change over time. For renewable electricity technologies, this comparison of electricity generation costs and potentially achievable market revenues provides an initial assessment of how their economic viability could develop under future conditions in the absence of public funding. It thus indicates the need for financial support as currently provided by the Austrian Renewable Expansion Act.
+
+<p style="text-align: justify;"/> The wind power potential assessment is based on current climatic and meteorological conditions. The impact of climate change was evaluated in a supplementary manner by assessing how moderate (mocc) and strong climate change (stcc) scenarios affect the full load hours of wind power systems, based on NUTS 3 level climate impact indicators derived in the recently completed FFG study ROBINE (cf. <a target="_blank" href=" https://www.ait.ac.at/en/themen/energieszenarien-und-energiesystemplanung/robine "> ROBINE</a> Regionsspezifische Impactuntersuchung von Klimawandel für eine robuste und integrale Energieinfrastruktur in Österreich.
+
 ## About 
-<p style="text-align: justify;"/>The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+<p style="text-align: justify;"/>The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Austrian Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
 <p style="text-align: justify;"/>Energiewerkstatt and AIT act as provider for this service.
 
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
 
+
+##  <!--{as="img" data-fallback-src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" style="width: 204px; height: 175px;"}-->

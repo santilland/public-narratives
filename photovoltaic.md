@@ -1,12 +1,12 @@
 ---
-cover-image: https://github.com/GTIF-Austria/public-assets/blob/main/assets/thumbnails/klien_data/PV-ground-mounted.jpg?raw=true
+cover-image: https://raw.githubusercontent.com/GTIF-Austria/public-assets/refs/heads/main/assets/thumbnails/klien_data/PV-ground-mounted.jpg
 
 domain: Energy Transition
 tags: KLIEN,renewable energy,energy potential,energy technology,photovoltaic,electricity
 provider: Umweltbundesamt,AIT Center for Energy
 ---
 
-# KLIEN Data – Photovoltaic Potential
+# Photovoltaic Potential – Study on Renewable Energy Potentials
 
 ## Background
 
@@ -67,23 +67,23 @@ provider: Umweltbundesamt,AIT Center for Energy
 
 <iframe width="100%" height="700" style="border:0; border-radius:12px;"  loading="lazy" allowfullscreen  referrerpolicy="no-referrer-when-downgrade"  src="https://gtif-austria.info/explore?indicator=pv_total_eepot_w23_wocc&x=13.3000&y=47.7675&z=8.1845&datetime=2030-01-01&template=light"></iframe>
 
-### Evaluation of the Results
+### Levelized Cost of Energy, Market Value & Impact of Climate Change
 
-<p style="text-align: justify;"/> The realisable PV potentials for 2030, and for 2040 in the Low and Medium storylines, are broadly consistent with earlier assessments. In the High storyline, however, the realisable potential for 2040 reaches 50.7 TWh, exceeding previous estimates and reflecting more favourable framework conditions.
+<p style="text-align: justify;"/> The evaluation of the levelized cost of energy (LCOE), market value (MV), and the impact of climate change was carried out as a post‑processing step following the assessment of generation potentials
 
-<p style="text-align: justify;"/> Over time, the balance between building integrated and ground mounted PV becomes more even, although buildings remain the dominant deployment area. This development is driven by electrification, increased availability of storage, EU requirements on solar readiness of buildings, and growing acceptance of energy communities.
+<p style="text-align: justify;"/> The specified LCOE ranges are based on a location-specific assessment that takes into account both construction and operating costs as well as site-dependent yield characteristics. For future cost developments, technology-specific assumptions, international cost trends, and adjusted price and financing parameters were used. Market value is based on prospective model-based analysis as undertaken in the recently completed FFG study Marktprämien 2.0 (cf. <a target="_blank" href=" https://www.ait.ac.at/themen/flexibilitaet-geschaeftsmodelle/projekte/marktpraemien-20"> Marktprämien 2.0 </a> - AIT Austrian Institute Of Technology), acknowledging hourly feed-in profiles of PV generation at the aggregated level in Austria. It thus reflects how revenues from selling the produced PV electricity on the Austrian wholesale market may evolve.
 
-<p style="text-align: justify;"/> Commercial and industrial sites account for a particularly high share of realisable potential due to favourable planning conditions, sufficient demand, available investment capital, and high social acceptance. Other sealed and already developed surfaces also contribute, although their fragmented structure limits their overall share.
+<p style="text-align: justify;"/> The data thus combines cost and system perspectives and shows how the relationship between generation costs and potential market revenues may change over time. For renewable electricity technologies, this comparison of electricity generation costs and potentially achievable market revenues provides an initial assessment of how their economic viability could develop under future conditions in the absence of public funding. It thus indicates the need for financial support as currently provided by the Austrian Renewable Expansion Act.
 
-<p style="text-align: justify;"/> By contrast, unsealed open land shows relatively low realisable potential due to ecological and social constraints. Ground mounted PV on such land is unevenly distributed, with the largest potentials located mainly in eastern Austria, while building based and sealed surface PV reflects the country’s decentralised settlement structure.
-
-<p style="text-align: justify;"/> Overall, the results indicate that the generation targets of the Austrian National Infrastructure Plan (ÖNIP) for 2040 are achievable. The required electricity volumes and an appropriate spatial distribution of PV deployment are best represented by the Medium storyline.
+<p style="text-align: justify;"/> The PV potential assessment is based on current climatic and meteorological conditions. The impact of climate change was evaluated in a supplementary manner by assessing how moderate (mocc) and strong climate change (stcc) scenarios affect the full load hours of wind power systems, based on NUTS 3 level climate impact indicators derived in the recently completed FFG study ROBINE (cf. <a target="_blank" href=" https://www.ait.ac.at/en/themen/energieszenarien-und-energiesystemplanung/robine "> ROBINE</a> Regionsspezifische Impactuntersuchung von Klimawandel für eine robuste und integrale Energieinfrastruktur in Österreich. 
 
 ## About 
 
-<p style="text-align: justify;"/> The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
+<p style="text-align: justify;"/> The underlying study, “Renewable Energy Potentials in Austria for 2030 and 2040,” was conducted on behalf of the Austrian Climate and Energy Fund and was financed with appropriations from the former Federal Ministry for Climate Action, Environment, Energy, Mobility, Innovation and Technology (BMK). It was carried out under the leadership of AIT Austrian Institute of Technology GmbH (AIT), together with the Environment Agency Austria (UBA), Vienna University of Technology (TU Wien), AEE – Institute for Sustainable Technologies (AEE INTEC), and Energiewerkstatt.
 
 <p style="text-align: justify;"/>UBA and AIT act as providers for this service.
 
 <p style="text-align: justify;"/>EOX complements with its IT expertise, acting as host and front-end expert.
 
+
+##  <!--{as="img" data-fallback-src=https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" src="https://raw.githubusercontent.com/GTIF-Austria/public-narratives/refs/heads/main/assets/nipargar/KLIEN-Logo-RBG-1773050934882.png" style="width: 204px; height: 175px;"}-->
